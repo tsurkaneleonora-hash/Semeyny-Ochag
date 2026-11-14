@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://semejnyj-ochag.ru/sitemap.xml
